@@ -7,7 +7,7 @@ Instructions
 ============
 
  - Import the project in Eclipse (or your favorite IDE).
- - Add the enterprise-app add-on jar and its dependencies to the classpath (usually in WEB-INF/lib).
+ - Add enterprise-app jar and its dependencies to your classpath (usually in WEB-INF/lib).
  - Have fun!
 
 You can download the required jars from Vaadin Directory (https://vaadin.com/directory#addon/enterprise-app).
