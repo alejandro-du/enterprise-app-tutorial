@@ -19,7 +19,7 @@ public class TutorialEnterpriseApplication extends EnterpriseApplication {
 
 	@Override
 	public void init() {
-		// don't ever, ever, ever, EVER forget the following line. This will bring Hibernate's Goods powers
+		// don't ever, ever, ever, EVER forget the following line. This will bring Hibernate's Gods powers
 		super.init();
 		
 		// create a full operating CRUD interface component right away!
@@ -33,6 +33,7 @@ public class TutorialEnterpriseApplication extends EnterpriseApplication {
 		setMainWindow(mainWindow);
 		
 		// that's it... what are you waing for? run it!
+		// NOTE: If you are reading this at github, please omit the previous comment. Thanks.
 	}
 
 }
