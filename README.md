@@ -1,7 +1,7 @@
 enterprise-app-tutorial
 =======================
 
-This is the enterprise-app Vaadin add-on application developed in the official tutorial.
+This is the enterprise-app Vaadin add-on application developed in the official tutorial (http://alejandroduarte.weebly.com/tutorial.html).
 
 Instructions
 ============
